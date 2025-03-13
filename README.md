@@ -1,4 +1,4 @@
-✝️**_Soli Deo Gloria_**✝️
+✝️ **_Soli Deo Gloria_** ✝️
 
 - 👋 Hi, I’m @mujairkitten
 - 👀 I’m interested in ...
