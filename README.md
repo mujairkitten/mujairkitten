@@ -1,3 +1,7 @@
+<div align="center">
+<img width=100px src="https://media1.tenor.com/m/ue7Q8JmP_0MAAAAd/oiia-oiiaoiia.gif">
+</div>
+
 - 👋 Hi, I’m @mujairkitten
 - 🌱 I’m currently learning basic programming languages and web development
 - 😄 Pronouns: he/him
@@ -8,4 +12,4 @@ working with his hands what is good, that he may have something to give him who 
 
 Ephesians 4:28 (NKJV)
 ```
-### ✝️ **Soli Deo Gloria** ✝️
+<h2 align="center"> ✝️ Soli Deo Gloria ✝️ </h2>
